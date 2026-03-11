@@ -3,5 +3,6 @@ BOT_USERNAME = "Xonio_Translate_Bot"
 
 ADMINS = [
 5608050933,  # Likith
-8435485710   # Vishal
+8614340419   # Vishal
+
 ]
