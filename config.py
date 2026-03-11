@@ -1,0 +1,7 @@
+BOT_TOKEN = "8423615012:AAEF5BnW-SMdXqC2UTsO71j03w6hYHbyGxY"
+BOT_USERNAME = "Xonio_Translate_Bot"
+
+ADMINS = [
+5608050933,  # Likith
+8435485710   # Vishal
+]
